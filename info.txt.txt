@@ -1,2 +1,31 @@
 Zahaab Khawaja - 22101038
 Counter Strike: Global Offensive
+
+PS C:\Users\Zahaab\Desktop\CS 102\CS-102-Github-Tutorial-Spring-2022> git log
+commit 54d313bbc200817e031063d49acda873b5b060f7 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 08b0b71 4bac0ea
+Author: Zahaab Khawaja <zahaabz@gmail.com>
+Date:   Thu Feb 10 19:21:17 2022 +0300
+
+    Merge pull request #1 from Agast0/new_information
+
+    Added video game
+
+commit 4bac0eac19202518e7672a11f7a83b81f0a7afa4 (origin/new_information, new_information)
+Author: Zahaab Khawaja <zahaab.khawaja@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 19:19:14 2022 +0300
+
+    Added video game
+
+commit 08b0b71ddd065352f00d37f0473943a3cfa39fb8
+Author: Zahaab Khawaja <zahaab.khawaja@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 19:11:57 2022 +0300
+
+    Name of the student updated
+
+commit a8e004bac93a10d415ad4e194f4824dc67eaa3b7
+Author: Zahaab Khawaja <zahaabz@gmail.com>
+Date:   Thu Feb 10 19:06:03 2022 +0300
+
+    Initial commit
+:
